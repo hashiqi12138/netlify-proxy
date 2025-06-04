@@ -20,13 +20,7 @@ const PROXY_CONFIG = {
   "/fireworks": "https://api.fireworks.ai",
   "/openrouter": "https://openrouter.ai/api",
   // 任意网址
-  "/hexo": "https://hexo-gally.vercel.app", 
-  "/hexo2": "https://hexo-987.pages.dev",
-  "/halo": "https://blog.gally.dpdns.org",
-  "/kuma": "https://kuma.gally.dpdns.org",
-  "/hf": "https://huggingface.co",
-  "/tv": "https://tv.gally.ddns-ip.net",
-  "/news": "https://newsnow-ahm.pages.dev"
+  "/route": "http://lededoor.v6.rocks:8181"
 };
 
 // 需要修复路径的内容类型
