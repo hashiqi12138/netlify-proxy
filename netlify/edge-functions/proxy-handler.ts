@@ -20,7 +20,8 @@ const PROXY_CONFIG = {
   "/fireworks": "https://api.fireworks.ai",
   "/openrouter": "https://openrouter.ai/api",
   // 任意网址
-  "/route": "http://lededoor.v6.rocks:8181"
+  "/route": "http://lededoor.v6.rocks:8181",
+  "/routev6": "http://[2409:8a30:590:54f0::1]:8181"
 };
 
 // 需要修复路径的内容类型
